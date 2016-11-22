@@ -1,1 +1,1 @@
-jsmn.h and jsmn.c files shoul be placed in this directory!
+jsmn.h and jsmn.c files should be placed in this directory!
